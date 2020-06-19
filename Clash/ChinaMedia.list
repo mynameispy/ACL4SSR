@@ -3,20 +3,7 @@
 # 数量：27条
 
 # Bilibili 哔哩哔哩
-USER-AGENT,Bilibili*
-USER-AGENT,bili*
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
+
 
 # Iqiyi 爱奇艺
 USER-AGENT,QIYI*
