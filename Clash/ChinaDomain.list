@@ -23,7 +23,7 @@ DOMAIN-KEYWORD,alimama
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,appzapp
 DOMAIN-KEYWORD,baidupcs
-DOMAIN-KEYWORD,bilibili
+#DOMAIN-KEYWORD,bilibili
 DOMAIN-KEYWORD,ccgslb
 DOMAIN-KEYWORD,chinacache
 DOMAIN-KEYWORD,duobao
@@ -105,16 +105,7 @@ DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 
 # Bilibili
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
+
 
 # Blizzard
 DOMAIN-SUFFIX,battle.net
