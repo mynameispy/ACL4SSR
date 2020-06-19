@@ -261,7 +261,7 @@ cfw-bypass:
   - "*alipay*"
   - "*appzapp*"
   - "*baidupcs*"
-  - "*bilibili*"
+#  - "*bilibili*"
   - "*ccgslb*"
   - "*chinacache*"
   - "*duobao*"
