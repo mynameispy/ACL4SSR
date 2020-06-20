@@ -4,7 +4,8 @@
 
 # Bilibili 哔哩哔哩
 #Synology
-DOMAIN-KEYWORD,synology
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,cloudflare.com
 
 # Iqiyi 爱奇艺
 USER-AGENT,QIYI*
